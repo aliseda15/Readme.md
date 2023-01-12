@@ -1,8 +1,8 @@
-### Hola visitante! :wave:
+### Bienvenido! 🙋🏻‍♂️
 
-Soy un Desarrollador Full Stack que está interesado en nuevas ideas de aplicaciones y aprendizaje automático, así como en ciencia de datos. También en nuevas tecnologías que nos hacen la vida más fácil.
+Soy un Administrador de Sistemas y redes en proceso de convertirme también en desarrollador full-stack con gran interés en todo tipo de proyectos que me permitan aprender o ampliar mis conocimientos.
 - ⚙ Trabajando en una herramienta de informes de redes sociales y creando Apps
-- 🧠 Actualmente estoy aprendiendo Node.js y React
+- 🧠 Actualmente estoy aprendiendo JavaScript y Django
 - 🎇 Estoy buscando colaborar en un proyecto tecnológico que integre IA y Machine Learning
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
